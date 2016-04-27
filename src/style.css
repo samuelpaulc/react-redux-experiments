@@ -1,0 +1,18 @@
+.DemoBtn:hover {
+    opacity: 0.5;
+}
+
+.btn-pressed {
+    color: blue;
+}
+.image-grid-container {
+    
+}
+.image-grid-item {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    display: inline-block;
+    background-size: cover;
+    outline: 1px solid silver;
+}
